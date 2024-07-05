@@ -1,3 +1,6 @@
+
+https://github.com/vinnu382910/Todo-App/assets/80328622/9b9301ec-2541-41b6-986c-d08e9c376a46
+
 ***Simple React To-Do Application***
 
 This is a simple To-Do application built using ReactJS that allows users to add, view, and delete tasks. The project demonstrates the use of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.

@@ -1,0 +1,64 @@
+
+.task-list-cont {
+    list-style: none;
+}
+
+.task-cont {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 450px;
+    min-height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-color: forestgreen;
+    min-height: 40px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.task-text {
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Roboto;
+}
+
+.btn-cont{
+    display: flex;
+    flex-direction: row;
+}
+
+.text-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.btn {
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: rgb(0, 26, 255);
+    border-color: transparent;
+    font-family: Roboto;
+    text-align: center;
+    color: #fff;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+}
+
+.checkbox-cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.check-box {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+

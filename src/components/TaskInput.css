@@ -1,0 +1,29 @@
+.input-cont{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.input-add {
+    border-color: violet;
+    background-color: aliceblue;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+
+.add-btn {
+    background-color: rgb(128, 99, 255);
+    color: #fff;
+    font-weight: bold;
+    border-color: transparent;
+    height: 35px;
+    width: 90px;
+    font-family: Roboto;
+    border-radius: 5px;
+    cursor: pointer;
+}
